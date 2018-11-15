@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Andy Clark/eclipse-workspace/ZoonouTools/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andy Clark/eclipse-workspace/ZoonouTools/lib/commons-collections4-4.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andy Clark/eclipse-workspace/ZoonouTools/lib/jsoup-1.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andy Clark/eclipse-workspace/ZoonouTools/lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andy Clark/eclipse-workspace/ZoonouTools/lib/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andy Clark/eclipse-workspace/ZoonouTools/lib/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andy Clark/eclipse-workspace/ZoonouTools/lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andy Clark/eclipse-workspace/ZoonouTools/lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andy Clark/eclipse-workspace/ZoonouTools/lib/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andy Clark/eclipse-workspace/ZoonouTools/lib/selenium-server-standalone-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andy Clark/eclipse-workspace/ZoonouTools/lib/xmlbeans.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
